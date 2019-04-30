@@ -4,7 +4,6 @@ This code was based on the Simple Baselines for Human Pose Estimation and Tracki
 
 Trained model [COCO data,70 epoch] (https://drive.google.com/file/d/1H9dElsNDvA--ybbRANaaiLkajN6O0tHF/view?usp=sharing)
 
-## Main Results 
 ### Results on COCO 2017 val (using 70 epoch trained model)
 | Arch | Input size | AP | AP .5 | AP.75 | AP(M) | AP(L) | AR | AR .5 |
 |---|---|---|---|---|---|---|---|---|---|

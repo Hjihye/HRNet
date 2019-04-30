@@ -6,7 +6,7 @@ Trained model [COCO data,70 epoch] (https://drive.google.com/file/d/1H9dElsNDvA-
 
 ### Results on COCO 2017 val (using 70 epoch trained model)
 | Arch | Input size | AP | AP .5 | AP.75 | AP(M) | AP(L) | AR | AR .5 |
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 |HRNet_w32 | 256x192 | 39.8 | 73.5 | 38.5 | 37.6 | 45.1 | 54.6 | 84.4 |
 
 ## Quick start
@@ -34,7 +34,7 @@ Trained model [COCO data,70 epoch] (https://drive.google.com/file/d/1H9dElsNDvA-
    mkdir output 
    mkdir log
    ```
-```
+
 ### Data preparation
 **For COCO data**, please download from [COCO download](http://cocodataset.org/#download), 2017 Train/Val is needed for COCO keypoints training and validation. We also provide person detection result of COCO val2017 and test-dev2017 to reproduce our multi-person pose estimation results. Please download from [OneDrive](https://1drv.ms/f/s!AhIXJn_J-blWzzDXoz5BeFl8sWM-) or [GoogleDrive](https://drive.google.com/drive/folders/1fRUDNUDxe9fjqcRZ2bnF_TKMlO0nB_dk?usp=sharing).
 Download and extract them under {POSE_ROOT}/data, and make them look like this:

@@ -1,6 +1,6 @@
 # HRNet
 Implementation of HRNet.
-This code was based on the Simple Baselines for Human Pose Estimation and Tracking. 
+This code is based on the Simple Baselines for Human Pose Estimation and Tracking. 
 
 Trained model [COCO data,70 epoch] (https://drive.google.com/file/d/1H9dElsNDvA--ybbRANaaiLkajN6O0tHF/view?usp=sharing)
 
